@@ -1,7 +1,4 @@
-
 import java.util.Arrays;
-
-
 import javax.swing.*;
 import java.util.Random;
 
